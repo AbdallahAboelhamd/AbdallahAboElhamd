@@ -46,7 +46,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm a **Full-Stack Developer** specialized in **PHP (Laravel)** & **Flutter**
+- 💻 I'm a **Full-Stack Developer** specialized in **PHP (Laravel)** & **React**
 - 🌍 Currently exploring **Web Security** & **Software Architecture**
 - 🚀 Always ready to **collaborate** on creative and challenging projects
 - 🧠 Passionate about **clean code**, **OOP**, and **design patterns**

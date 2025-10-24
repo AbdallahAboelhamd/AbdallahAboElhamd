@@ -8,7 +8,7 @@
  <a href="https://github.com/AbdallahAboElhamd">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3diY2hlc3ZjbjZ2cHQ0djJlNjdrNDFkdG9janpwcTJnNm53YzlxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" 
        alt="Hello Coders" 
-       width="60%"/>
+       width="50%"/>
 </a>
 <br>
 

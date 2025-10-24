@@ -6,6 +6,13 @@
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
+ <a href="https://github.com/AbdallahAboElhamd">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3diY2hlc3ZjbjZ2cHQ0djJlNjdrNDFkdG9janpwcTJnNm53YzlxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" 
+       alt="Hello Coders" 
+       width="60%"/>
+</a>
+<br>
+
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">

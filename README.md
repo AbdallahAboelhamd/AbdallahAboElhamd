@@ -4,7 +4,6 @@
   <br> I'm Abdallah AboElhamd, Backend Web Developer :computer:<br>
   <br>
 <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
  <a href="https://github.com/AbdallahAboElhamd">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3diY2hlc3ZjbjZ2cHQ0djJlNjdrNDFkdG9janpwcTJnNm53YzlxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" 

@@ -1,7 +1,11 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <p align="center"><a><img width="80%" alt="Hello, I'm Abdallah AboElhamd. Backend Developer!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=I'm+Abdallah+AboElhamd;Backend+Developer;PHP+%7C+Laravel+%7C+React;Clean+Code+Enthusiast;Let's+Build+Something+Awesome!">
+  </a>
+</h1>
   <br>
 <br>
  </abc>

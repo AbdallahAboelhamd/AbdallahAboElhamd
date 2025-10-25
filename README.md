@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Abdallah AboElhamd, Backend Developer :computer:<br>
+  <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdallah AboElhamd. Backend Developer!" src="./assets/gh-readme-header.png" /></a></p>
   <br>
 <br>
  </abc>

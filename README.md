@@ -76,5 +76,5 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2UwaXN0c3luOWM3aGR2eW85enlvd2U2MGlmNHQwbXQ0M3pwazQwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WE59KFXbaf6tsAn2zW/giphy.gif" 
-       alt="Thanks for visiting" width="50%">
+       alt="Thanks for visiting" width="30%">
 </p>
